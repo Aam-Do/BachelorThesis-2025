@@ -1,0 +1,414 @@
+
+Speaker 1  (00:00)
+This is the prototype testing of the first group. And um, so we're going to focus on the games tab, so I would like you to go to the games tab and then for for now just again, kind of like take a look around and then we'll get to specific tasks later, you can also make it brighter, it's a little dark right now. And uh, again, think, aloud what you want to do what you're thinking, just talk to me. 
+
+Speaker 2  (00:41)
+Okay, I'd say it's just click on the first game like the new game one, it's called. 
+
+Speaker 3  (00:48)
+Um, so we have some information about the description of this game, so maybe it's the story and what is our, I don't know, you know what the 
+
+Speaker 2  (01:02)
+Ah okay, I think that looks really cool so like we have like this info and players.. we click on that. Ah, then there are names, oh a Kagari. 
+
+Speaker 3  (01:12)
+So I think because it's players, those are the characters of the people who are in this session playing and not like my characters. And for invite players I think that I can they connect the App with the apps from other people were using the same software and then just get their player information in my phone so that I don't have to note everything. 
+
+Speaker 1  (01:48)
+Very good. Just play around with it, whatever you want. 
+
+Speaker 2  (01:50)
+So that was in general, what's Overview? Ah. Private Note taking... Okay, so I'm just going to, ah it's just a big blog of text, Ah, okay, so it's just like note, and you can make blocks for special Notes to stand out and you can.. you can click on that writing icon? 
+
+Speaker 1  (02:21)
+Yeah, it's just. 
+
+Speaker 3  (02:23)
+It's okay. 
+
+Speaker 2  (02:25)
+You can make it large, oh yeah, you can make it big. 
+
+Speaker 3  (02:27)
+So I think those are, because theres, for the eyes of the GD, those are the mistakes or other things that the group did, and those are the, the things we don't want to tell them. 
+
+Speaker 2  (02:43)
+Or maybe I could, oh, what I, what I think, be cool like just the main thing and that these um highlight ones, uh, what's kind of happens. What the players aren't supposed to know? I think that's pretty cool like just like having a difference between notes you know like being able to difference- differenti- differencia... 
+
+Speaker 1  (03:07)
+Differentiate, yes. 
+
+Speaker 2  (03:10)
+Uhm from what's, what I should tell the players, what I shouldn't tell the players, and maybe, you know, what's happening. 
+
+Speaker 1  (03:16)
+Okay. Before we go further and into this, I would actually like to ask about the design, the look of it, if you're noticing like a difference to to last time in the in the way it looks. I'm going to ask you um, a little more concise, if you're struggling, for example, if you noticed that there's more icons. 
+
+Speaker 1  (03:50)
+They help you rather than last time, or maybe the texts is larger, is there maybe that maybe I should ask you that after you've actually you've actually looked at the whole thing. So, um, let's keep that in mind, but let's go back and I'm going to ask you some tasks now. so first of all, I would like you to try and join A game, a new game. 
+
+Speaker 2  (04:21)
+Maybe with the plus sign? Ah, there's join and there's create, so I'm just going to join. Ah, then you can enter an invite code or you can scan an QR Code.. oh that's really cool, yeah, and that makes it so easy. 
+
+Speaker 1  (04:40)
+Great alright. Then go ahead and join the game. 
+
+Speaker 3  (04:47)
+Okay so... here is the join icon, but we don't have a code. 
+
+Speaker 1  (04:51)
+For the prototype, you don't, you don't need the code, yes. 
+
+Speaker 2  (04:55)
+Other player name invites you to join their game! Oh I guess I can. I'm not sure if I wanna join that game oh okay. 
+
+Speaker 3  (05:08)
+Ah okay, choose a... let's take this Hero, well, you can just select and join. 
+
+Speaker 2  (05:12)
+Ah, so it's just our own heroes like I think it's the heroes we have ourselves and then we can just choose that hero to join the session. Maybe, hmm, as an Ah yeah yeah that makes a lot of sense, so, you'd have to first create a character for that session, and then you could join, and then choose the character you created to join that session 
+
+Speaker 3  (05:35)
+But there was a possibility to say choose later, so I think we can also firstly joined the session then decide what character we want to do with it. 
+
+Speaker 1  (05:44)
+Do you think that that makes sense? So you don't have to have your character before? 
+
+Speaker 3  (05:50)
+I think it does because, depending on this story, it would be different what character I create. So if we are in the nature, it makes more sense to take someone who knows about animal and if we are in a city that doesn't make a lot of sense. 
+
+Speaker 2  (06:09)
+And I think it's also really practical for when you just want you've only just have a general idea for a session so like when Lucas last year just told us- uh asked us if we wanted to join, I think that would have been really practical to just say, here's the QR Code, just join, and then you can see what the story is, if you wanna actually participate, or maybe not. 
+
+Speaker 1  (06:29)
+Okay, good, so then 
+
+Speaker 2  (06:31)
+Oh there's an icon missing or is it? No, you can scroll? 
+
+Speaker 1  (06:37)
+Well, um, yeah, you can get acquainted with this, uh, you can take your time, but I'm going to ask you to show me one of the quests in this game, so you joined this game as a player and now I want you to find a quest. 
+
+Speaker 3  (06:55)
+Okay let's scroll... yeah, there's quests. 
+
+Speaker 2  (06:59)
+Oh okay, I'll just click on one okay, where's [unintelligable] ah, that's cool and then there's like an overview like what's the quest? And whose, where this is, what's... 
+
+Speaker 1  (07:14)
+While you're there, could you lead me to an NPC that is related to this quest? 
+
+Speaker 2  (07:20)
+I'll just click on an NPC name. Yes, NPC Name, and then there's. Ah, okay. Ah okay, so it's like you can see what kind of NPCs are in this quest and you can make yeah, yeah that's cool, okay, there's just some description and probably a picture in this box up there 
+
+Speaker 1  (07:47)
+Do you understand what's kind of like happening there? maybe you can take a look at the other tabs if you want it as well, creatures or locations... 
+
+Speaker 2  (07:55)
+Okay. So we just Ah, yeah, so here are other NPCs. And I go away from that, so it's like we were at quests, and then shows that quest and now we get to NPCs and probably you can also like go to other like, i don't know, location and then you go to locations, okay. 
+
+Speaker 3  (08:14)
+That makes sense, so I think when we go to NPCs, we get every NPC, and when we firstly go to the quests, then we just get those NPCs who are related to this quest, not every NPC 
+
+Speaker 2  (08:26)
+And if we go in the NPCs, ah and we can see the connections of the NPC itself, and also in what quests the NPC is. Okay that's cool. 
+
+Speaker 1  (08:34)
+All right now I would like you to find the hero that you joined this game with. 
+
+Speaker 3  (08:45)
+So I think it's on the left side 
+
+Speaker 2  (08:50)
+Oh yeah, no, sorry. Left is the other side, uh. 
+
+Speaker 3  (08:54)
+Look info, and then the right side players, maybe 
+
+Speaker 2  (08:59)
+Ah yeah, my player and my hero name, a human rogue. 
+
+Speaker 1  (09:04)
+Great, you want to open that up for me? wonderful! 
+
+Speaker 2  (09:09)
+And then here we have the character sheet 
+
+Speaker 1  (09:11)
+And my last task for you is to leave the game. The player game that you were in. 
+
+Speaker 3  (09:18)
+Okay, so I think we go back to general. 
+
+Speaker 2  (09:23)
+Okay, no, we're just heroes, then let's go back to games, maybe 
+
+Speaker 3  (09:28)
+Yeah, I think that's 
+
+Speaker 2  (09:32)
+New game ah and now we're back to player game and then up here is like this exit. Yeah, leave game. Confirm! 
+
+Speaker 1  (09:42)
+Very good! Now, Um, some questions. How did the process of joining the game feel you- feel to you, was it easy or confusing? 
+
+Speaker 2  (09:52)
+It was really easy 
+
+Speaker 1  (09:54)
+Okay, great. Um regarding the game and the information in- that was presented to you. Are you satisfied with the amount of information that's present it to you in the um, like objects tab with the NPC's and the locations- 
+
+Speaker 3  (10:14)
+Yeah. I think was a lot of information but I think we do need a lot of information in the games. So, uh I think if if we've used it a few times and wouldn't be a problem. 
+
+Speaker 1  (10:27)
+Okay, Um, and I'm interested to see as a or to know as a player. How would you feel if you're a game director was able to edit your hero once you've joined their game? For example, to add something to your inventory 
+
+Speaker 2  (10:44)
+Oh I don't think I'd like that. 
+
+Speaker 3  (10:46)
+I think it depends on what part of the inventory, uh wouldn't be a problem for me. But for example, the [unintelligable] or other attributes, I don't know. It depends on the game master but, if we are not so, if we don't know them that good, it would be, I don't know what it would be like... 
+
+Speaker 2  (11:10)
+I think it would be cool if you had like the option to say, okay, yeah, this person can edit these parts or maybe everything, but like I think it could be cool to have like the standard of not being able to edit it. Oh, maybe can be like able to take notes and like make um suggestions, yes. 
+
+Speaker 3  (11:30)
+Yeah and then we could confirm them or not confirm, but I think it would be good we were noticed if we can see that bit because it would be very bad if we wouldn't see it yeah, and then just they'll notice that there are changes at our character. 
+
+Speaker 2  (11:46)
+Maybe there could be like some kind of tab like messages or anything like if the game director has an idea for a change they can just like make this suggestion and then it's for you, uh, like in the "what's what's happening" tab or something like that and you can see like different games. What's happening there? 
+
+Speaker 2  (12:06)
+What's new What's changed? You know, okay? 
+
+Speaker 1  (12:09)
+That's very good ideas. All right, now we've looked at, we've joined a game as a player and we've looked at that thing now I would like you to create a new game as the game director. 
+
+Speaker 2  (12:23)
+Yeah, so just the plus sign [unintelligable] and there's create at the bottom and then you can give a name description and a cover image, you can't, let's create. Yay. and so it's just the same as- beautiful and up there instead of exit it's deleting, yeah. 
+
+Speaker 1  (12:44)
+So now I have a few tasks for you in this one so I would like you to edit an existing npc. 
+
+Speaker 2  (12:54)
+So I just go to NPC 
+
+Speaker 1  (12:56)
+I filled the game with stuff already. Usually, this would all be empty, of course upon creation but. 
+
+Speaker 2  (13:02)
+What's this eye sign? Ah no wait. there is the NPC, but what's this eye sign? Oh, so it's visible or invisible probably for the other players 
+
+Speaker 3  (13:14)
+You know that would make sense, if we haven't met them in the story. Then we shouldn't know this NPC. 
+
+Speaker 2  (13:19)
+Yeah, and then we can edit the NPC. Ok great and now I can give it a name, a description and a cover image 
+
+Speaker 1  (13:27)
+Alright. Very good though! Now, um, how about you edit some of your private notes on a quest? 
+
+Speaker 2  (13:37)
+Okay so I just, and there's quests and this quest, this is not visible. Ah there's GD journal is priavte note taking and then the pencil. Yeah, now we can edit, it's probably yeah, okay. 
+
+Speaker 1  (13:54)
+Actually it should do something that's it weird, but that's okay. Um, great, very well then, how about we change the connections of a location? 
+
+Speaker 2  (14:11)
+Okay, I'ma go back and there's the quest and I'll just go down and the location is over there. And I'ma just click on that. Okay, that's this is the journal and we can edit connections probably with this thing ah yeah now we could maybe 
+
+Speaker 2  (14:31)
+Delete something like that Ok wait we're at a location. Sorry, I'll go back to quest 
+
+Speaker 1  (14:38)
+No, you were supposed to change the connections of a location, so you were right. 
+
+Speaker 2  (14:41)
+Oh Okay, then I'll go back to the location, okay, and if we want it, oh, it's just going all to object name, but there's quests the second one there. I think it's just the Punkt Punkt Punkt. Okay, now we can delete it. Confirm. 
+
+Speaker 1  (14:57)
+Alright, um, now you already looked at the visibility, so make a creature visible to your players. 
+
+Speaker 2  (15:08)
+Uhm creature were over there. 
+
+Speaker 1  (15:10)
+Oh, sometimes it stops working Em. It's that's not your fault, it's just 
+
+Speaker 3  (15:15)
+I think it just likes mika more. 
+
+Speaker 1  (15:19)
+You can, you can go over the connections if you want. 
+
+Speaker 2  (15:22)
+Okay, that would be smart okay, it does like more. Okay so I'll just tap on a creature and then on this eyes sign thingy and then it's probably visible. 
+
+Speaker 1  (15:32)
+Amazing yeah, it doesn't save because the prototype can't do that. But yep, and then um, how about we change an organisation's status to disbanded? Disband an organisation 
+
+Speaker 3  (15:47)
+Oh, we're no- 
+
+Speaker 2  (15:49)
+Now it works, so I'll go there um. 
+
+Speaker 3  (15:55)
+So maybe edit it? So maybe also on the punkt punkt punkt thing. 
+
+Speaker 2  (16:07)
+Oh I know! Known, disbanded, not relevant and we would, but we were supposed to change it to disbanded right so now it's disbanded 
+
+Speaker 1  (16:17)
+Great, very good. Um, okay. If we, if you're in the game and you're playing and you realise I need to make a new quest, please make a new quest, okay. 
+
+Speaker 2  (16:36)
+Okay, quests and then probably with this thing again Add, and then we can create a quest. Can I click this? 
+
+Speaker 1  (16:44)
+You've noticed a fault in my design very good. You know, yeah, that this would be the way, but I think I've forgot to link it, but very nice, um and we're nearing the end, so please invite a player. 
+
+Speaker 2  (17:00)
+It's either with others? 
+
+Speaker 3  (17:02)
+I think it's from the first thing and then you can go to the right side. There was the players tab. 
+
+Speaker 2  (17:08)
+ah yeah there's players, and then invite player, oh, and there's the invite code and there is the QR code, that's really cool! 
+
+Speaker 3  (17:14)
+We can even copy it and maybe send it on WhatsApp! 
+
+Speaker 1  (17:18)
+Great, very nice. Um, now remove a player. 
+
+Speaker 2  (17:22)
+Oh, my God. 
+
+Speaker 1  (17:25)
+You don't want them anymore, they're not your friend anymore, oh. 
+
+Speaker 2  (17:29)
+Okay, so it's 
+
+Speaker 3  (17:31)
+Oh, we can rest. 
+
+Speaker 2  (17:32)
+No, ah there, delete hero? 
+
+Speaker 3  (17:35)
+Do we delete the Hero? 
+
+Speaker 1  (17:37)
+Yeah, no. 
+
+Speaker 3  (17:37)
+Will that delete them out of the game? 
+
+Speaker 1  (17:38)
+Nah nah nah nah nah you went into the hero. I think that was not supposed to be possible. Um, that's my fault, so um you need to go back into your game 
+
+Speaker 2  (17:47)
+Okay, and I'll get to you're here and then we're at players. 
+
+Speaker 3  (17:53)
+Oh, remove, there. 
+
+Speaker 2  (17:54)
+Oh dear, okay, that well, that was 
+
+Speaker 3  (17:57)
+Was too obvious. 
+
+Speaker 2  (17:59)
+We're just, we're just too far ahead with our.. Yeah, and then I'll confirm and then they're gone. 
+
+Speaker 1  (18:04)
+Okay, very good and for the very last step, please delete the game. 
+
+Speaker 2  (18:09)
+Oh no we have to delete our dear beloved game. Up here in this corner with this trash sign. Can you press this button I can't. You're not that emotional, you can do it. 
+
+Speaker 1  (18:23)
+Very well, very, very well done. So, um, I have some questions for you. How did the process of creating a game feel you? Was it easy or confusing? 
+
+Speaker 2  (18:35)
+I think, like, as far as it looked, you just have to like actually create the game, and then you just have to enter like a title, maybe a few notes but it's nothing much, so I think that's really cool that you have a game and then can just add notes every time you think of something. 
+
+Speaker 1  (18:50)
+Um, as a game director would you like to be able to edit the player's heroes, for example, to level them up or to give them stuff into the inventory? 
+
+Speaker 2  (19:00)
+No, definitely, not. 
+
+Speaker 3  (19:01)
+But I think would be more easy and more fast so, the game would become more fast I think it would be good. 
+
+Speaker 2  (19:10)
+I think it'd be cool if there was like a system that both like the game director as well as the player can like do notes for like they want to edit some like want to add something or just make something away like discharge that. But the other a person has to approve to that so that the game director doesn't change something about the player. 
+
+Speaker 2  (19:30)
+and the player doesn't just change something generally in the game and makes themself richer or something. 
+
+Speaker 3  (19:34)
+But I think like levelling up, that's a thing I think it's good when the game director does it, because so, it's more celebrating, I don't know um but like levelling down if it's even possible, I think that shouldn't the game director can do without talking to the player. 
+
+Speaker 1  (19:56)
+Okay, um, as a game director did you feel like you're in control of your game and tracking it? Yeah? Yeah. Um did you feel like it would be easy to make an irreversible mistake. For example, by deleting something by accident. 
+
+Speaker 3  (20:14)
+Well, at the one point when we nearby deleted the hero itself. Um, that was dangerous. 
+
+Speaker 1  (20:22)
+Oh yup that was a fault in my design 
+
+Speaker 2  (20:24)
+Maybe it would be cool if there was like a trash can like that saved something for like I don't know a day or something like if you delete something out of accident that you could just retrieve it again like after a day, it's getting completely eliminated. 
+
+Speaker 3  (20:37)
+But there was always this confirm or don't confirm thing so, um, besides that I think wouldn't delete anything without wanting to delete it. 
+
+Speaker 1  (20:48)
+Okay, Um, now, um you you did take a while to change the status of one of the game objects like the location or npcs. Um, did the changing the status up there makes sense to you or did you kind of like oversee it think you didn't, you know, notice that. 
+
+Speaker 2  (21:06)
+No, just a little hard to see it first. 
+
+Speaker 3  (21:09)
+Yeah, um, for me, it's didn't. Uh, at first when I saw it, I thought it would be like other text because mostly when they were in a row like this, um, those were tabs where we can find more information and not where we can like click, uh, so at first I didn't thought that we could find it there. 
+
+Speaker 1  (21:34)
+Yeah, that's that's great feedback and how do you feel about using this app of course, when it's done to organise and track your game? 
+
+Speaker 2  (21:45)
+I like that. I would do it I think, yeah, it's a really cool app. [both] 
+
+Speaker 1  (21:49)
+Do you think this app would make it easier for you? 
+
+Speaker 2  (21:51)
+Yes [both]. 
+
+Speaker 1  (21:53)
+Um, is there anything else that you would need? You feel like you would like to be able to do as a game director. 
+
+Speaker 2  (21:59)
+Have it on a bigger screen than this yes. 
+
+Speaker 1  (22:04)
+You've mentioned that last time to you use your we use your tablet, right? Yeah, I've taken that into account. I'm not going to do it, but I am writing it into my thesis and um to finish up after getting used to game directing in this app, do you feel better about directing your own game like now 
+
+Speaker 1  (22:24)
+Do you feel like it's more approachable? 
+
+Speaker 2  (22:28)
+Yeah, yeah, I think so. 
+
+Speaker 3  (22:29)
+Yeah um, because firstly, we can't do that much mistakes and then we don't have to keep track of a lot of paper things we have it all in one place, so for me it would make it easier. 
+
+Speaker 1  (22:43)
+Very good. Um, that's all and I thank you very much. 

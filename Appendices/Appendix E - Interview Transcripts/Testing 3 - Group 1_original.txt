@@ -1,0 +1,528 @@
+
+Speaker 1  (00:00)
+Started the recording and let's switch back to English. 
+
+Speaker 1  (00:06)
+Okay, Now that you both are here um, today I'm going to show you, uh, some new stuff in the app and we're going to do um less experimentation than the other times there's more like set paths that you'll have to follow because it only has limited functionality, um, because it's, uh, just the prototype, it's just a clickdummy, it can't actually Take your inputs um, so it's all about seeing you interact with it and then evaluating the ease of use as well if the structure and the functions in general makes sense to you and Em. 
+
+Speaker 1  (00:47)
+I'll remind you again that this is not a test and I ask you to think out aloud. So first of all we're going to look at The tools and we're going to go a look at 1 tool, in particular, the encounter simulator so, um, I'm not going to tell you what it is, I'm going to let you like, try and figure out on your own. It's okay if you don't really understand what it's for but um, why don't you just go ahead and Search for the or, go for, go to look for the encounter simulator tool. 
+
+Speaker 2  (01:29)
+In the middle there's like tools let's click on that. 
+
+Speaker 1  (01:32)
+Yes let's get your voice a little warmed up and speak up 
+
+Speaker 3  (01:38)
+Below stands "balance fights for your encounters" so I'd believe it's for fights. 
+
+Speaker 2  (01:46)
+Yeah, so we have our own heroes and we have own creatures so I don't think we could choose? 
+
+Speaker 1  (01:56)
+Okay. So yeah, so actually I would like to kind of like walk you through what you can do so, you don't have to find everything out, but um, I would like you to look at your heroes. The ones that I've already put in there for you 
+
+Speaker 2  (02:13)
+So I thought by clicking the icon we could, probably like here, different heroes. 
+
+Speaker 3  (02:27)
+And I guess wait, how can we? 
+
+Speaker 1  (02:39)
+Speak, speak, speak out aloud. 
+
+Speaker 3  (02:42)
+I just looked where to go back and that's where. And I guess we can here choose one, and then uhm we can make activity, and then this characters is for this round out, I guess it works so and then the other, other side has a uhm place to choose. 
+
+Speaker 1  (03:11)
+So when I asked to look at the hero you wanted to click on the hero icon, would you have expected this one hero to open up, or would you have expected like an overview of all of them? [unintelligible] Um, so how would you add a hero? 
+
+Speaker 2  (03:26)
+Like, click on the plus. 
+
+Speaker 1  (03:27)
+Do you think there would be another- that's correct, yes. Do you think there would also be another um way? 
+
+Speaker 2  (03:34)
+I will probably go again to heroes and add plus thing. 
+
+Speaker 1  (03:38)
+Okay, you can actually go ahead and click that. 
+
+Speaker 2  (03:45)
+So it created a new hero 
+
+Speaker 1  (03:49)
+Yes, sort of. It's not a whole creation, as you can tell you, if you look at it again, there's only a few things you can change. Um, but that's very good so far. Okay, so now you've basically added heroes to this let's look at what monsters we have 
+
+Speaker 2  (04:10)
+So we have to go back 
+
+Speaker 1  (04:12)
+You have to really click up there. 
+
+Speaker 2  (04:20)
+Go to Creatures. What's that number? 
+
+Speaker 1  (04:23)
+Hmm, can you find out a correlation between the number Here And if you go look at the at the front page again? 
+
+Speaker 2  (04:34)
+I feel like It's like a creature type so we have three of them, so it's really just like the simple of the whole. 
+
+Speaker 3  (04:45)
+Yeah, yeah, there's six creatures too, so that would be logical. 
+
+Speaker 1  (04:50)
+Okay. So does it kind of like make sense? For example, if you had, let's say 3 skeletons and 3 ghouls that you can see like each one of them here, but if you go back to creatures um, there's the number, what do you think the plus and minus is next to next of them are. 
+
+Speaker 2  (05:11)
+Uhm to add another creature like here? 
+
+Speaker 1  (05:14)
+If you can go, can you go into creatures? 
+
+Speaker 2  (05:16)
+So like when you change it, then you should have another creature of that type. 
+
+Speaker 1  (05:24)
+So there would be 4 okay, and how would you add a creature to this? 
+
+Speaker 2  (05:30)
+By clicking on the plus, like it's like a new creature type. 
+
+Speaker 1  (05:34)
+Yeah, another one of a creature that you don't already have, yes, yeah. 
+
+Speaker 2  (05:45)
+Oh, so. yeah? 
+
+Speaker 3  (05:48)
+There stands three more. 
+
+Speaker 2  (05:50)
+But why remove? 
+
+Speaker 1  (05:52)
+Yeah, I think it's because also, if you click on here and then also, if you actually, it doesn't work for the heroes, but for the creatures it does well, that's cool then you would like to you would like it to open a detail of the hero like I small little detail page as well. I definitely see that yeah. 
+
+Speaker 2  (06:10)
+But like- remove, okay so I can remove this this creature, but if we were to like add a new one, wasn't there like, you can. 
+
+Speaker 1  (06:23)
+Yeah, it should just open it without the removing button if you open it from there, righ? That's a question. You would want it to? I see that yeah, I agree. All right, and then finally, we have chosen our heroes and we have chosen our monsters, so now let's simulate the battle. 
+
+Speaker 2  (06:39)
+I click on "simulate". 
+
+Speaker 1  (06:42)
+Okay, now tell me what you see here and also, don't don't mind the weird formatting I don't know why it does that. 
+
+Speaker 2  (06:50)
+Well, you see some kind of statistics, like what can happen I think? 
+
+Speaker 3  (06:58)
+I think what's the highest possibility? How high is the possibility to win and here the fight information of the heroes with health and armor. And our creatures are all dead I would think. 
+
+Speaker 1  (07:15)
+Okay, but you identify that those have died. Yeah, that's nice good. Could you imagine this for example, if um, so this is obviously was quite easy, no one got hurt and all the creatures died, but um, of course also, maybe a hero could could be shown dead or something. Okay, this is all I want you to do and now I'm going to ask you if you understand what this Tool is for or what do you understand this tool is for? 
+
+Speaker 2  (07:48)
+I feel like, well it's a simulation so you don't really use it in a game I'd say, but if you have like plan like, Hey, maybe this would, maybe this is a good idea, maybe we could try that and just to have a better concept of like your own strength and the strength of your other heroes, to maybe try to see What's happening? 
+
+Speaker 3  (08:13)
+Yeah, or how high is the risk to do the fight. 
+
+Speaker 1  (08:19)
+Do you think you would use this tool as a player or as a game director more? Or both? 
+
+Speaker 2  (08:25)
+I feel like as a player just to be aware of your own strength and what's like dangerous for you. 
+
+Speaker 3  (08:36)
+Yeah, I agree, okay. 
+
+Speaker 1  (08:42)
+Have you noticed the preset function in the heroes overview, if not and go back and look at it, what do you think this is for? 
+
+Speaker 2  (09:00)
+Like, mm, if you're already have a game that you can choose from that you'll already get like the creatures and the heroes that are in that game. 
+
+Speaker 3  (09:13)
+Yeah. 
+
+Speaker 1  (09:15)
+Nothing happens. 
+
+Speaker 2  (09:16)
+And you don't have to adjust like everything 
+
+Speaker 1  (09:18)
+Okay. Yeah, I could imagine there be the presets for the games and then maybe also, just template heroes like a group of 4 level 1 heroes, if you don't have a game already. But uh, do you think that that's useful? 
+
+Speaker 2  (09:32)
+Yeah, I feel like it makes the process easier to just like click Okay, "I'm playing this game I want to check that and just like go [taps]. And not like Okay, this hero, this hero, this hero 
+
+Speaker 2  (09:45)
+wait, what creatures did I need?" and just like search for every single thing, 
+
+Speaker 1  (09:52)
+Okay. Uuhm, about the results, the results page. Was it understandable and helpful? 
+
+Speaker 3  (10:00)
+Yeah, I would think so, um, I find, I wouldn't make the info how high the possibility to win the fight is in there, but I think it is good because you can see the armor and healthpoints and we can see who died and who lives. 
+
+Speaker 2  (10:24)
+Well, I feel like I would have left the percentage already there. Um, just because it makes for me like [unintelligible], just like, no okay, is it like a good option and stuff. But uh, this outcome of the game is just like one of many, so I'm not sure, if I could rely on it 
+
+Speaker 1  (10:51)
+Okay. Um, so I'm going to tell you know what it is. Um, so you're right is like a simulation, a simulation of a battle and it's thought to be more for the game director actually, so that the game director can kind of um, kind of feeling for what can my group handle? 
+
+Speaker 1  (11:11)
+Or um, you know, cuz I don't - maybe I just want to have a fun little fight- that I want to kill all of them accidentally. um So they would use this and then actually what happens as the computer does a few 100 battles and then tells you the average result, what you sort of can expect. So do you think this as a tool itself is useful? yeah? And would you use it as the game director to balance encounters for your players? yeah? And you're not just saying that to make me happy? 
+
+Speaker 2  (11:46)
+Definitively not, no I um, especially, as I don't really know any creatures I find that this would be really helpful to like get to know everything and what's happening, just because, like, "I'll make sweet little things" like that we had last time in the game, we think it's so easy we can just like go away. You're just like Why do we have so much damage? 
+
+Speaker 1  (12:10)
+Allright, okay, do you have anything to add, or do you agree? All right? Um, then we're going to look at the next thing and for this, I'm going to first show you something on paper, not this. So um last time we already had the first round of our first fight in World of Discordia and as you know, in my games, I prefer not to take distances, and these grids and maps too seriously. 
+
+Speaker 1  (12:43)
+However, it is a big part of the game and many players really like using maps for their battles. So where do I put... now I would like you to imagine that you are, a Weaver, a magician, a mage and you're in this tavern, and there's 2 monsters 
+
+Speaker 2  (13:10)
+And we're too big 
+
+Speaker 1  (13:14)
+You're a bit to big for the grid yes. Um, and now, um, I'm going to, I'm going to just ask you. So you have a few spells that you can use and one of those spells is a lightning ray with a range of 5 squares. Could you tell me um, how far away these monsters are and if you could hit them with your 5 square ray 
+
+Speaker 2  (13:42)
+I could hit this one but not this one. 
+
+Speaker 1  (13:45)
+How do you calculate that 
+
+Speaker 2  (13:47)
+Like, mh kind of diagonally. Um, it's probably one too free four, this is the fifth one. 
+
+Speaker 1  (13:56)
+You would go diagonal over there mhm 
+
+Speaker 3  (13:58)
+I don't think it would go. So I think I couldn't hit one of them. 
+
+Speaker 1  (14:03)
+Okay. So it would be a lot easier if, for example, this one was like like here in one line, right, but they're a little askew, so you're not sure? you think you could hit this one? Yeah, yeah, 
+
+Speaker 2  (14:18)
+Yeah but it probably depends on the person that's counting, because if you go 
+
+Speaker 1  (14:23)
+Like depends on the person that's counting, yeah that's interesting insight. Okay, now let's say you also have a fireball spell. With the fireball, um, you can kind of like choose a point and then it creates like an explosion in a 5 / 5 radius Would you be able to hit one or maybe both of these monsters? 
+
+Speaker 1  (14:52)
+You can choose anywhere in the room and it'll create 5 / 5 radius of explosion. 
+
+Speaker 3  (15:00)
+Yeah, when we place it here, we had here 1 2 3. And here one 2 three four so I could hit both. 
+
+Speaker 2  (15:11)
+But like, hmm, but you have to like, it all. Yeah no it should be possible... uhhm it should be possible. 
+
+Speaker 1  (15:27)
+You think it should be possible? Are you sure or do you think? 
+
+Speaker 2  (15:31)
+I'm quite sure. 
+
+Speaker 1  (15:32)
+You're quite sure, okay. Actually, it's not, it's not possible to hit both of them. 
+
+Speaker 2  (15:39)
+What how do you explain like a five by five radius? 
+
+Speaker 1  (15:41)
+That's a good question, isn't it? 
+
+Speaker 3  (15:45)
+If we and if it is a middle point, and we can only go through 2 and a 1/2 
+
+Speaker 2  (15:53)
+Yeah, but still you have a two- Ok look. If you're here, you can go here, you can go, like, 1 2 and then like 1 2 and this is like 5 radius and if you go up like 1 2 and 1 2 down, you're in the radius 
+
+Speaker 3  (16:09)
+But then you did, you did it in half uhm 
+
+Speaker 2  (16:16)
+Yeah, but they are in the radius. 
+
+Speaker 1  (16:18)
+Mhm no that that's okay. Um, so if you use more strands, it's like the magic ability, to cast fireball, you could create a 7 / 7 square radius, where would you position it to hit both monster? 
+
+Speaker 2  (16:33)
+But I don't understand like, personally I think like the 5 / 5 would be enough so I don't know how the 7 by 7 make it any better. 
+
+Speaker 1  (16:41)
+Okay. Okay. You okay. 
+
+Speaker 1  (16:44)
+Hmm, I understand that okay. So now I'm just going to ask you like, how did this kind of feel to you like calculating or imagining where the areas would be. 
+
+Speaker 2  (16:56)
+It's weird. Just because I have it's like a different concept of counting like the squares I think? But if there are like a set of rules for a game I feel like it'd be okay. 
+
+Speaker 3  (17:14)
+Uh, I find it kind of weird too because it's like math and I would think in a fight, it would be more like the feeling i have, would it go or wouldn't it? With the experience, but I think when we can simulate it like we have to do then, it is a practical tool. 
+
+Speaker 1  (17:38)
+So like 
+
+Speaker 2  (17:39)
+I feel like it gives us structure to make everything fair. 
+
+Speaker 1  (17:42)
+Yeah, okay. Actually, this is, it is for a new tool, so this has, let's say nothing to do the previous tool we looked at. But I want to ask you if you would like to have some sort of help calculating distances and areas in a situation like this 
+
+Speaker 2  (17:59)
+That depends on your players, if you agree to, okay like, let's just say about there and if you're playing with that, it's okay, but if you have somebody that wants to play "ok, you're one centimetre too far away okay". So just like, have a fair set of rules to just like keep track of everything 
+
+Speaker 1  (18:23)
+Okay, now I would like you to click through what is a rough idea of what a tool for this could look like, um, so I'm going to head you back to the tools and there's a function there called the AR map and I to want you to know that this is just a dummy, so there's a limited amount of things that you can do. But just uh 
+
+Speaker 1  (18:52)
+Just um, yeah, try it and talk me through it. Or just for how like, what do you think when you see this 
+
+Speaker 2  (19:04)
+I feel like like it's gonna be like in chemistry because we had an app that we could like move around the room and just like imagine and go through it and share VR, basically all this. 
+
+Speaker 1  (19:18)
+Yeah, it's since it's just a prototype, this is a video so you can just keep it there so you can both look at it and I've already done it 
+
+Speaker 1  (19:48)
+This would perfectly be what I want you to do. Unfortunately, it doesn't work, so just click it. But imagine that you like swiped up there. 
+
+Speaker 2  (19:58)
+5 Squares. 
+
+Speaker 3  (20:04)
+Okay, let's place it. 
+
+Speaker 1  (20:11)
+Yeah, please show her that's like you, you're kind of like covering it with your hand so she can see it as well. 
+
+Speaker 2  (20:27)
+So a radius is a semicircle. 
+
+Speaker 1  (20:30)
+It's a circle. 
+
+Speaker 2  (20:32)
+Really? Yeah, hmm, um, I would make it bigger. 
+
+Speaker 1  (20:40)
+So with the 7 / 7, you could like, could you kind of tell with 5 / 5 and with a 7 / 7? 
+
+Speaker 2  (20:48)
+So you're obviously not able to do a circle with squares um, so you're gonna to have to do like for 5 / 5 like a cross, basically leaving out the corners, and by making bigger, it's, uh, you've got an even better circle, maybe even more corners away 
+
+Speaker 1  (21:13)
+Are you able to- actually I'm going to ask you later, just keep going 
+
+Speaker 3  (21:44)
+So that's the end i guess? 
+
+Speaker 1  (21:47)
+All right, so what do you think? 
+
+Speaker 2  (21:53)
+I think it's helpful, but I expected something else. 
+
+Speaker 1  (21:56)
+You expected something else. What did you expect? 
+
+Speaker 2  (21:58)
+I expected it not really show it on the map, but like a digital version of it, which you could puts like, you could zoom in and so you could walk around, basically, uhm but this is like also very helpful, especially if you have both versions, for example, of course you have both versions, uhmm mm yeah. 
+
+Speaker 3  (22:26)
+I agree, I've found it quite helpful um with the circus and all. I think it when someone is using it quite much, the app for the, as game master, I think it would be nice to be able to create an map on the phone, so we don't have to scan it. 
+
+Speaker 1  (22:51)
+Okay. 
+
+Speaker 2  (22:53)
+I feel like it's great for starting the game. But as soon as you get used to it I think like that you won't need it as much. 
+
+Speaker 1  (23:00)
+So you would rather use like a Digital map like a completely digital version? 
+
+Speaker 2  (23:08)
+Not necessarily. But it would make things easier sometimes. 
+
+Speaker 1  (23:14)
+Okay, um, so were you were you able to see what creatures you could hit? Yes, you're nodding. 
+
+Speaker 2  (23:24)
+Oh sorry. 
+
+Speaker 1  (23:25)
+I will hear you, I will hear you nod later in the audio. And you kind of also already answered the other questions I had, but is there something else you would like the tool to be able to do? 
+
+Speaker 2  (23:42)
+Just because it's like semi digital, so you have to move the pieces on the map, should be able to like see everything that's on your phone. I feel like the semi version is actually great for beginners and just start and get to know the game, but uh, a full digital version might be good as well, just if you've been playing for a long time already 
+
+Speaker 1  (24:09)
+Yeah, yeah, yeah, I can tell you the reasoning later if you want to but um, because the others are already here, let's just jump into the last part, which is the dice roller, so there's very little limited options for you to do so. I'm going to tell you what I would like you to do, um, but yep, you already found it. 
+
+Speaker 1  (24:36)
+So um, if we're in at the table, for example and I'm asking you to make an attack roll. Um, how would you do that? 
+
+Speaker 2  (24:47)
+Uhm which a dice do we need 
+
+Speaker 1  (24:52)
+So an attack would be like kind of like a standard thing that you you always use your 2d10s for 
+
+Speaker 3  (25:00)
+I think I would go on here, yeah. 
+
+Speaker 2  (25:03)
+And 
+
+Speaker 3  (25:05)
+Okay, and then here. 
+
+Speaker 1  (25:07)
+Yeah, nothing's going to happen there. Yeah, um, that's interesting. How yeah that's a good question, why would you prefer this over this? 
+
+Speaker 3  (25:20)
+Because there were the choosing of the dice. And I think I when would have choose here, the advantage and disadvantage, I would have clicked there but they're just more near, yeah. 
+
+Speaker 2  (25:45)
+But is this like preset, or did this happen once we clicked here. 
+
+Speaker 1  (25:50)
+No, this is like a preset. You can click this little, that's what I expected you to do, this is why that actually works, you can click it. 
+
+Speaker 2  (25:59)
+Okay, so it's makes it easier I think but it's not necessary because we can, well of course it's manual labour, but it doesn't make that big of a difference 
+
+Speaker 3  (26:08)
+Ah, yeah, I believe because here are the um dices, we have to choose it. And I hadn't thought that it would be there set up. 
+
+Speaker 2  (26:21)
+And I also just thought those were random numbers... 
+
+Speaker 1  (26:24)
+Okay, yeah, that's that that's fair. Okay, and now, just could you please roll for example, a damage where you need to roll, please a 1D6 and 2D4 at the same time? Uh no, no disadvantage 
+
+Speaker 3  (26:47)
+Oh, that's actually here then. 
+
+Speaker 1  (26:49)
+And roll! 
+
+Speaker 2  (26:52)
+Okay, oh it works. 
+
+Speaker 3  (26:53)
+It does 
+
+Speaker 1  (26:56)
+Okay, but that's nice to see that you use this roll for this, so this kind of like makes sense, this belongs together and these belong together? Yeap. All right, and um, yeah, actually did you see that there's something to scroll down or did you not see that? 
+
+Speaker 2  (27:12)
+Well I didn't really notice it before but as you pointed it out yeah, it's like there's something there 
+
+Speaker 1  (27:17)
+Something here yeah, but it's not- you didn't want to scroll, so it wasn't obvious, okay. 
+
+Speaker 3  (27:23)
+I guess I could scroll, and it looked like because you can see here a button. 
+
+Speaker 1  (27:30)
+But it's not very visible. 
+
+Speaker 3  (27:32)
+But yeah 
+
+Speaker 1  (27:34)
+Okay. Right, so um, now you've looked at this. Would you rather use this dice roller or physical dice? Probably an easy answer, but just answer anyways. 
+
+Speaker 2  (27:48)
+This makes it easier, because I feel like dice if you don't have like the space for it makes sometimes a mess or if you don't have like an even space and yeah, not as good, but I feel like it's always fun to have dice yeah. 
+
+Speaker 1  (28:06)
+Umm 
+
+Speaker 3  (28:08)
+Yeah, I find it quite cool because it as well makes the maths for me that I don't like. 
+
+Speaker 2  (28:14)
+Yeah it makes the maths easier. 
+
+Speaker 1  (28:18)
+You're don't to have to calculate as much. So would you rather? Um, I actually no wait I kind of like um, no, that's fine. 
+
+Speaker 1  (28:27)
+You actually answered those um you answered those during testing as well. Did you experience frustration selecting dice? 
+
+Speaker 3  (28:35)
+No, no. 
+
+Speaker 2  (28:38)
+Well, if I click of it, how do I click it away? 
+
+Speaker 1  (28:42)
+That would be my next question. How would you remove a die you accidentally selected? You are holding it, which is exactly what I would do okay, so does so you wanted to like 
+
+Speaker 1  (28:55)
+Hold it to make it go away? yeah, would you have found that out on your own or? 
+
+Speaker 2  (29:01)
+Probably, but my question now is would only take one away or like the whole set of it. 
+
+Speaker 1  (29:09)
+Good question. What should it do? What would you expect it to do? Maybe 1? 1? so what if you're accidentally add eight of the wrong die, and then you will have to hold it 8 times? 
+
+Speaker 2  (29:22)
+Not it's annoying. okay. I feel like, if you're like, if you click too fast, or just like exactly, then it would be much more helpful to just click one away, than just like eight, cause I feel like it's not that often I should click eight by like mistake, yeah, yeah. 
+
+Speaker 3  (29:48)
+I might have guessed that I would get a small field were  are plus and minus is to be seen and then I can click on the minus and it would remove one but I could removed more by more clicks 
+
+Speaker 2  (30:04)
+Okay. 
+
+Speaker 1  (30:05)
+More interactions. 
+
+Speaker 2  (30:06)
+Maybe a remove one or remove all or maybe like [unintelligible] everything. 
+
+Speaker 1  (30:11)
+Okay, so the idea is that the dice roller is accessible whenever like you've seen the little in the little tool menu "dice" so like on the character sheet or in the game view where you can like select it and click on "dice" so that you can easily access your digital dice wherever you are. Do you think this is a good Decision? yes? And do you think it's useful tool 
+
+Speaker 2  (30:43)
+Yeah, yes. 
+
+Speaker 1  (30:45)
+Okay, you're laughing. These questions might be stupid, but they're really important for me. 
+
+Speaker 2  (30:50)
+No it's just I'm always nodding, and I just 
+
+Speaker 1  (30:53)
+It's like on the phone. okay Um and um, last question I want to add is, if the little like "help" things there would like explain to you how you removed things. Would it be enough information on the screen 
+
+Speaker 2  (31:09)
+Yes. 
+
+Speaker 3  (31:10)
+I, I would. I don't quite understand for what this is. 
+
+Speaker 1  (31:16)
+The "Enter expression", um. You're gonna yeah, okay, that's a very good feedback, cuz what you're supposed to be doing, or can do, 
+
+Speaker 1  (31:30)
+What you can do is like write in there like 1D4 plus 3 and I then like it already does, like it does the thing if you want to do that, um, but that's definitely something I need to think, think about more. All right, then this concludes are testing and thank you very much. 

@@ -1,0 +1,372 @@
+
+Speaker 1  (00:00)
+I start the recording, this is the second group doing the probably last testing. Umm okay, so we're going to, uh, jump right in and look at the last sections, uhm, for this app, you weren't here the last time, so all of this is new but we're just going to look at those New things 
+
+Speaker 1  (00:31)
+So, I'll hand this over to you and I would like you to imagine that you're looking for official world of Discordia game contents, so just an adventure book with a pre-made adventure, where would you go? 
+
+Speaker 2  (00:48)
+Well my first guess is resources or maybe the library. Well, we have adventures at resources, okay. 
+
+Speaker 1  (01:03)
+Remember to think aloud what you're um like, doing or thinking about. Speak to me. Um, all right, so you found those. now imagine you found one of the adventures that seems relevant to you, please navigate to the Description of This Resource and Tell me What You See 
+
+Speaker 2  (01:25)
+Um, so there is like a short description under the title already, but if I click on one of those then like a description pops up and I could download the game and I get a lot of informations. 
+
+Speaker 1  (01:42)
+What information about the resource is presented to you? Also feel free to speak up as well. 
+
+Speaker 3  (01:49)
+Well, I found some texts I think that might be something to show what it will be so fit for me and I saw some contents. I think, maybe it the round or something I'll have to face and I think this is some think for me to mark that will just store that somewhere um, and download I think there I can play it without WLAN. 
+
+Speaker 1  (02:29)
+Uh huh, without Wi-Fi, so how would you, how would you use the download - And this is the add a library - buttons what would expect them to do 
+
+Speaker 3  (02:39)
+Just click them. 
+
+Speaker 1  (02:40)
+Okay, what would you expect to happen? 
+
+Speaker 2  (02:43)
+Like if I click the download, I think um that it would like that I'd be able to open it and play it on like my phone and if I were to like put it in My Library just like to be able to look it up at at some point and maybe then decide to download it if I were to start a new campaign. 
+
+Speaker 1  (03:03)
+Okay, so let's say when you add it to the library, you can click that button. Um, you would get a little text that it's been added to your library and now the contents are available for you in your library. What do you think that means. 
+
+Speaker 2  (03:21)
+Like that if I go to library I will all find it there. 
+
+Speaker 1  (03:25)
+Like the book or the contents 
+
+Speaker 2  (03:29)
+Like, um I'd say the book like the story and such 
+
+Speaker 1  (03:37)
+Okay, erm, so let's go ahead and download this resource. 
+
+Speaker 2  (03:42)
+Wee 
+
+Speaker 1  (03:44)
+And let's imagine that you're going to go ahead and read it. 
+
+Speaker 2  (03:50)
+So there are. Well, we have the contents we have like we have a few chapters 
+
+Speaker 3  (03:57)
+Really many chapters 
+
+Speaker 1  (03:59)
+And you used the arrow to navigate 
+
+Speaker 3  (04:03)
+Chapter 1. 
+
+Speaker 1  (04:08)
+And there would be chapter two, and so and so forth, um, so how easy or difficult do you think it is to navigate through the reason? 
+
+Speaker 2  (04:18)
+Easy. Like, I think it makes sense that like we have a a something that sums everything up and then like we have a list of all the chapters and what's going to await us, and we can find a rather easily, I think. 
+
+Speaker 1  (04:34)
+How would you go about searching for specific content within this resource? 
+
+Speaker 3  (04:39)
+Like I think there's a search button 
+
+Speaker 1  (04:43)
+Yes. Yeah, don't worry about it. 
+
+Speaker 3  (04:44)
+I think if I click it will show something and then I'll just search for it. 
+
+Speaker 2  (04:52)
+I personally would have went to the front and just like, um nah. 
+
+Speaker 1  (04:59)
+That was like the first big misclick, I think 
+
+Speaker 2  (05:04)
+here yeah, I would have went here yeah, and just like try to click Um, there somewhere. 
+
+Speaker 1  (05:11)
+Okay, so um it's interesting. You also wouldn't have expected this to open your table of contents? 
+
+Speaker 2  (05:22)
+I feel like I didn't really see it to be honest I didn't notice it. Um, but once I saw it I was like, oh of course 
+
+Speaker 1  (05:30)
+All right now, so um, what would you expect to find When you click the bookmark here? 
+
+Speaker 2  (05:39)
+I didn't really know what to expect 
+
+Speaker 3  (05:41)
+Is that this bookmark? 
+
+Speaker 1  (05:43)
+Yes, it doesn't do anything for the prototype, but yes. 
+
+Speaker 3  (05:47)
+I think that if we click at this and it will show a special mark maybe 
+
+Speaker 1  (05:53)
+Mhm 
+
+Speaker 3  (05:57)
+and I guess I don't know. I think maybe just a special mark for me so that I can just skip from somewhere to there. 
+
+Speaker 1  (06:09)
+So you think it would bookmark the chapter that you're in 
+
+Speaker 3  (06:12)
+Yeah. 
+
+Speaker 1  (06:13)
+Okay, um, do you understand how you could change the display settings? 
+
+Speaker 2  (06:22)
+Like erm, the colours? like this. 
+
+Speaker 1  (06:26)
+The like half, yeah, circle thing? what would you expect to find in there in the display settings? 
+
+Speaker 2  (06:34)
+Probably like a size of the fonts, maybe font type even, but especially like the colours such like you could switch to like light or a dark, uh, setting hmm. 
+
+Speaker 1  (06:49)
+Do you would you agree? 
+
+Speaker 3  (06:51)
+Yeah, and maybe how big this words are. 
+
+Speaker 2  (06:57)
+Maybe even to read aloud the content. 
+
+Speaker 1  (06:59)
+Oh okay, like an accessibility to read it. It's a very nice idea. Okay, so um, what's your away from the resources and um And um, let's say you want to find information to a specific official game topic, for example, the details of a specific spell. 
+
+Speaker 1  (07:28)
+Please show me how you would go about finding that information. 
+
+Speaker 3  (07:33)
+Mm, games, maybe?. 
+
+Speaker 1  (07:38)
+You weren't here for the testing of the games. would have that been your first idea? 
+
+Speaker 2  (07:43)
+No I would have like stayed um here hmm, and like when here spells or something like that rather. 
+
+Speaker 1  (07:53)
+Okay, right, uh, so I still have to think about how how that you would tell you. But, um, for example, here it spells right? And if you add it to your library, it says that you can find the contents of this in your library. Where would you head now to find the details of this spell? 
+
+Speaker 2  (08:18)
+Well, to library. And to the spell grimoir. Here we have multiple spells 
+
+Speaker 1  (08:35)
+Okay, um, how would you like, How would you look at the details of the spell? 
+
+Speaker 2  (08:42)
+Click on it, great, yeah, just look through what's happening. 
+
+Speaker 1  (08:48)
+Um, now what if I asked you to look at the specific information on deity on a God? Where would you head now? 
+
+Speaker 2  (08:59)
+I'd go... a god? Maybe to creatures. 
+
+Speaker 3  (09:14)
+Tome of Gods. 
+
+Speaker 2  (09:16)
+Yeah, and then we have some gods 
+
+Speaker 1  (09:23)
+Could you speak a little louder, please? Yeah, and then would you click on that or? Great. Alright, how would you um describe the organisation of the library? 
+
+Speaker 2  (09:39)
+Like it's divided in a different types like the gods, for example, creatures or the heritages like um, the most important things you would divide everything in the game into, I think. 
+
+Speaker 1  (09:56)
+If we go back to like all the gods so you're like, in the- oh why does that. This is wrong. This is my this is my mistake, I forgot to change the name there. 
+
+Speaker 1  (10:07)
+Um, how would you switch to another category from within here? 
+
+Speaker 3  (10:16)
+Here.. or, what are these? 
+
+Speaker 1  (10:21)
+What do you think that is? 
+
+Speaker 2  (10:25)
+To sort everything within the list. Or maybe find something that I'm looking for like some type, some type of God maybe. 
+
+Speaker 1  (10:38)
+So how would you switch categories without going back? 
+
+Speaker 2  (10:44)
+I'd go up here I think. 
+
+Speaker 1  (10:47)
+Okay, was this difficult to find? 
+
+Speaker 2  (10:56)
+No, but doesn't really make sense for me like I don't know why it's there because it's it's either one step back or it one step here and it's just doesn't make a difference for me like where I need to click yeah. 
+
+Speaker 1  (11:13)
+Okay, now, in general, how easy or difficult was it to find the info that you were looking for? 
+
+Speaker 2  (11:22)
+If I were to know the categories ahead then it would be rather easy that I need to scroll for the gods. And then in that I would have just thought that I'd need to look at the creatures just because like maybe they're a creature. But other than that's it's rather easy. 
+
+Speaker 1  (11:39)
+Okay. Umm, now we found what we want in the library and could you go ahead and open one of the entries again and explain to me the content um. 
+
+Speaker 3  (11:57)
+I think that here would be some pictures for the God and some basic informations, a brief description, something more something more something more. I think maybe it will be better for big title here and some kind just like it's for the book so I can just jump Maybe I could click that and jump to here so. 
+
+Speaker 1  (12:37)
+Like a little contents overview, okay, um, yeah, go ahead and look at the spell again and tell me umm, tell me about that content. 
+
+Speaker 2  (12:57)
+Um, well, here we don't have a picture we still have like some informations, but we lost like the headlines here hmm, erm, but we get like information how it's used, and it's like what effect it has. 
+
+Speaker 3  (13:19)
+I'm interested in this "basic rules". I think maybe we'll have something more or a brief introduction for all spells, um. 
+
+Speaker 1  (13:33)
+Interesting. Okay, yeah, um, intended is that it's like where this is from, so if you have like multiple resources like you added another resource like from an adventure and that adds a spell to your library. Then it would say here the name of the adventure so you that you know that this spell is not part of the basic rules, but from your expansion sort of. Does that make sense? Yeah? [speaker 2 nods] 
+
+Speaker 1  (13:55)
+Um, so how about the content? Do you find the information to be clear and understandable? 
+
+Speaker 2  (14:04)
+Um, yes. 
+
+Speaker 1  (14:08)
+Is there anything you would like to add or change about the entry content? 
+
+Speaker 2  (14:13)
+Um, you know, I think like here, you lost a bit of a structure, I think just because, like everywhere you had like some kind of bold writing, some kind of headline and here it's just like text. Um, just like from like those points to text, just like that, yeah. 
+
+Speaker 1  (14:31)
+Okay. So you would like to see well structured content. Would you like to see more like um, images and tables, or are you okay, with the amount of like texts? especially with the gods, it was a lot of texts? 
+
+Speaker 2  (14:50)
+I don't really know how you could like add Um, some kind of table there with the gods. Maybe you could do like overall, overview like maybe even all the gods like mabye some kind of categories, but I other than that it's fine. 
+
+Speaker 1  (15:09)
+Okay great, then um, let's go ahead and look at last thing for today. Let's explore your profile. Find the area where you can view your profile information 
+
+Speaker 2  (15:25)
+Could be with our heroes, like here maybe? 
+
+Speaker 1  (15:37)
+Mhm. And are you logged in right now? Okay, so please create a new account with your school account. 
+
+Speaker 2  (15:49)
+So we need a new account, and we have a school email. 
+
+Speaker 3  (16:02)
+So choose, oh! 
+
+Speaker 2  (16:04)
+Wee! Are you going to put like all of the, like, so how do you put all the schools in there? 
+
+Speaker 1  (16:12)
+It said, like, it's going to be like a collaboration with schools that are part of the project 
+
+Speaker 2  (16:26)
+Yeah, makes sense. Yeah we fill out the form and register, and we created an account. Yay. 
+
+Speaker 1  (16:34)
+Very well. Yeah, so was it easy to figure out which way of signing up you needed to select? 
+
+Speaker 2  (16:45)
+Yeah, but I would have also inspected, um, like a plus if you were to create a new profile somewhere or like even create an account at all. 
+
+Speaker 1  (16:59)
+Okay. 
+
+Speaker 2  (17:00)
+But it's fine like that. 
+
+Speaker 1  (17:03)
+Like in the 
+
+Speaker 2  (17:05)
+Like right here, just 
+
+Speaker 1  (17:08)
+Where where the plus usually is? okay. Um, so now that you're logged in, how would you change your name and profile picture? 
+
+Speaker 2  (17:16)
+I'd probably just click on it or maybe go into account and then, change everything. 
+
+Speaker 1  (17:23)
+All right, um, what would you expect to find in the general settings? 
+
+Speaker 3  (17:35)
+Uh, music, background music. Loud, low, or without an voice. So voice, for example, for reading that story or something hmm. 
+
+Speaker 2  (17:57)
+Yeah, I don't know because I would have also expected the notifications to be there but you put it like somewhere else already. So um but yeah, just like the basic stuff. 
+
+Speaker 1  (18:11)
+Okay. Now I'm wondering right now [unintelligible] 
+
+Speaker 1  (18:20)
+I resumed the recording. Um, okay, so now, how would you log out of your account? [Speaker 2 navigates to account] Okay. So now umm, I have some general questions for you. 
+
+Speaker 1  (18:41)
+Um, you [speaker 3] obviously have only seen what we've seen now and at the very like first session, but um, try to answer um, in general. So what we've seen today, but also what we've seen the last few weeks: overall, how easy or difficult did you find it to use this application? 
+
+Speaker 2  (19:03)
+I find it very easy where once you like saw all the options that the app has. Because it is um, made with like, you've put thought into it and it makes sense why you put it there. It's just maybe not always something the people are used to, uh, just because uh game creator of course have their own mind, and just like did other things. 
+
+Speaker 2  (19:29)
+But overall it's easy to like use it, okay. 
+
+Speaker 3  (19:34)
+For me it's easy to understand and I think I can guide myself really easy in this app I think 
+
+Speaker 1  (19:50)
+Um, is there anything about the layout are design that you find particularly confusing? So you mentioned as one of the very first things in the beginning that it's not very fantasy welcoming, I think you said that, and I totally agree and I don't think I've shown you like the mood board of what I wanted to look like in the end. 
+
+Speaker 1  (20:07)
+But despite of that, or maybe you even have to say something about using it with this sort of like blue and ruough design, is there anything you found confusing or hindering your experience? 
+
+Speaker 2  (20:22)
+I feel like there are a lot of details to dive in and maybe you can get lost and like searching for everything and maybe sometimes like easier access to like some kind of the hidden stuff might be good hmm, but I also can't really imagine how you can incorporate it differently to be fair. 
+
+Speaker 3  (20:47)
+And for me, I wasn't there for about half these times and for me or I've had very easy to understand huh. I think for example here we need a bit so down to see what we need and if we have some more, I mean, so general selections, for example, roles, spells, I don't know, Then it would be easier, maybe 
+
+Speaker 1  (21:30)
+Um, and based on your experience today and over the last few weeks, do you have any suggestions for improving this- for improving this application? Any thoughts? 
+
+Speaker 2  (21:46)
+Mm, well the only thing is like for a first time going to start a game and open the app, just like to get like some kind of guide through it. but other than that it's really good. 
+
+Speaker 1  (22:00)
+How would you feel so I have this little idea of, um, like some sort of mascot? So there's the there's this like dead dragon, this like dragon skull [Logo] and maybe like a little cartoonized version of this like dragon, who kind of like is there and then kind of like tells you every time you go on a tab for the first time is like "Click here to see this" and then like kind of like leads you through it once. You have to kind of like do it and then you have free reins, how would you feel about that? 
+
+Speaker 2  (22:36)
+Is he always gonna be there? 
+
+Speaker 1  (22:38)
+Um, he would only be there the first time. And if you click on like the little help things, maybe he could explain it to you again. 
+
+Speaker 2  (22:44)
+Yeah, that's good. 
+
+Speaker 3  (22:46)
+Yeah, or maybe if we need something and we click on it and it can also show, go somewhere else, just little so [unintelligible] and you can just follow. 
+
+Speaker 1  (23:01)
+Yeah, okay, yeah, um, all right, and then do you have any more questions for me or about this application? Okay, that concludes the testing. 
