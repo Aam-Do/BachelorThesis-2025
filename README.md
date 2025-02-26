@@ -15,14 +15,15 @@ The thesis investigates the potential of a progressive web app (PWA) to enhance 
 ## Contents
 
 *   **Thesis Document:** \[Placeholder Link to Full Thesis Document]
-*   **Prototype Files:** \[Placeholder Link to Appendix A]
-    *   Adobe XD and Adobe Aero Prototype Files.
-*   **User Testing Interview Transcripts:** \[Placeholder Link to Appendix B]
-    *   Transcipt text files from the user testing sessions.
-*   **Design Document:** \[Placeholder Link to Appendix C]
-    *   The Design Document as submitted to the Dragon Legion.
-*   **Adobe Prototype:** \[Placeholder Link to Appendix C]
-    *   Click-dummy for user testing and development.
+*   **Appendices:**
+   *   [**Appendix D - Prototype Files:**](/Appendices/Appendix D - Prototype Files)
+      *   Adobe XD and Adobe Aero Prototype Files.
+   *   **User Testing Interview Transcripts:** \[Placeholder Link to Appendix B]
+      *   Transcipt text files from the user testing sessions.
+   *   **Design Document:** \[Placeholder Link to Appendix C]
+      *   The Design Document as submitted to the Dragon Legion.
+   *   **Adobe Prototype:** \[Placeholder Link to Appendix C]
+      *   Click-dummy for user testing and development.
 
 
 ## Key Concepts & Technologies
