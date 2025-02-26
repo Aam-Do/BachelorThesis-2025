@@ -21,6 +21,9 @@ The thesis investigates the potential of a progressive web app (PWA) to enhance 
     *   Transcipt text files from the user testing sessions.
 *   **Design Document:** \[Placeholder Link to Appendix C]
     *   The Design Document as submitted to the Dragon Legion.
+*   **Adobe Prototype:** \[Placeholder Link to Appendix C]
+    *   Click-dummy for user testing and development.
+
 
 ## Key Concepts & Technologies
 
