@@ -16,14 +16,16 @@ The thesis investigates the potential of a progressive web app (PWA) to enhance 
 
 - **Thesis Document:** \[Placeholder Link to Full Thesis Document]
 - **Appendices:**
-  - [**Appendix D - Prototype Files:**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20D%20-%20Prototype%20Files)
-    - Adobe XD and Adobe Aero Prototype Files.
-  - **User Testing Interview Transcripts:** \[Placeholder Link to Appendix B]
-    - Transcipt text files from the user testing sessions.
-  - **Design Document:** \[Placeholder Link to Appendix C]
+  - [**Appendix A - Digital Tools Overview**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20A%20-%20Digital%20Tools%20Overview)
+    - Table of Digital Tools examined.
+  - [**Appendix B - User Testing Interview Results**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20B%20-%20User%20Testing%20Interview%20Results)
+    - Tables summarizing the interview results. Created with NotebookLM.
+  - [**Appendix C - Design Document**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20C%20-%20Design%20Document)
     - The Design Document as submitted to the Dragon Legion.
-  - **Adobe Prototype:** \[Placeholder Link to Appendix C]
-    - Click-dummy for user testing and development.
+  - [**Appendix D - Prototype Files**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20D%20-%20Prototype%20Files)
+    - Adobe XD and Adobe Aero Prototype Files and Click-dummies for user testing and development.
+  - [**Appendix E - User Testing Interview Transcripts**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20E%20-%20Interview%20Transcripts)
+    - Transcript text files from the user testing sessions.
 
 
 ## Key Concepts & Technologies
