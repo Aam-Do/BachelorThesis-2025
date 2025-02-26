@@ -1,7 +1,7 @@
 # BachelorThesis-2025 Digital Companion App for World of Discordia
 Thesis for the award of the degree Bachelor of Arts in the degree program Media Design Bachelor at the Faculty of Digital Media at Hochschule Furtwangen University. Title: "Designing a Digital Companion Progressive Web App Incorporating Augmented Reality for the Tabletop Roleplaying-Game World of Discordia for Educational Application in Schools"
 
-This repository contains the design and concept for a digital companion app for the World of Discordia tabletop role-playing game (TTRPG), intended for educational use in schools. The app aims to enhance the TTRPG experience for student players and Game Directors (GDs) by simplifying gameplay and providing supportive tools, including augmented reality (AR) integration. This project was developed in cooperation with Dragon Legion.
+This repository contains the thesis and appendices documenting the design and concept for a digital companion app for the World of Discordia tabletop role-playing game (TTRPG), intended for educational use in schools. The app aims to enhance the TTRPG experience for student players and Game Directors (GDs) by simplifying gameplay and providing supportive tools, including augmented reality (AR) integration. This project was developed in cooperation with Dragon Legion.
 
 ## Project Overview
 
