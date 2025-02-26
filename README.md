@@ -38,7 +38,7 @@ I would like to thank:
 *   Rasmus Pechuel, CEO of the Dragon Legion.
 *   Marc Beutner from the University of Paderborn.
 *   The school Birklehof and AG-Manager Anita Mukasa.
-*   Luna Müller from the Dragon Legion.
+*   Luna Müller, RPG Initiative Manager from the Dragon Legion.
 *   The World of Discordia app developer team.
 *   The Birklehof students Mika, Felicitas, Theresa, Mayra, and Julia.
 *   My friends Anni and Lena, my family, my boyfriend, and my therapist.
