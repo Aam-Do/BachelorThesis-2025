@@ -15,13 +15,12 @@ The thesis investigates the potential of a progressive web app (PWA) to enhance 
 ## Contents
 
 *   **Thesis Document:** \[Placeholder Link to Full Thesis Document]
-    *   A comprehensive document detailing the research, design process, and concept for the digital companion app.
-*   **Appendix A - Digital Tools Overview:** \[Placeholder Link to Appendix A]
-    *   An overview and comparison of existing digital tools in the TTRPG sector and relevant applications, influencing the design and functions of the WoD companion.
-*   **Appendix B - User Testing Interview Results:** \[Placeholder Link to Appendix B]
-    *   Detailed results from user testing sessions conducted at Birklehof school, providing insights into the app's usability and areas for improvement.
-*   **Appendix C - Design Document:** \[Placeholder Link to Appendix C]
-    *   A non-explanatory version of the functions and requirements, a style guide, and the link to the Adobe XD prototype for development.
+*   **Prototype Files:** \[Placeholder Link to Appendix A]
+    *   Adobe XD and Adobe Aero Prototype Files.
+*   **User Testing Interview Transcripts:** \[Placeholder Link to Appendix B]
+    *   Transcipt text files from the user testing sessions.
+*   **Design Document:** \[Placeholder Link to Appendix C]
+    *   The Design Document as submitted to the Dragon Legion.
 
 ## Key Concepts & Technologies
 
