@@ -34,6 +34,9 @@ The thesis investigates the potential of a progressive web app (PWA) to enhance 
 - **Augmented Reality (AR):** Exploring the use of AR to enhance gameplay and user engagement.
 - **User-Centered Design (UCD) & Participatory Design (PD):** Combining these methodologies to create a usable, feasible, and compliant tool.
 
+## Declaration
+This project includes DodoCreates as a contributor. I hereby declare that I, the author, am the rightful owner of DodoCreates, and all contributions have been made by the author.
+
 ## Acknowledgments
 
 I would like to thank:
