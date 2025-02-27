@@ -14,7 +14,7 @@ The thesis investigates the potential of a progressive web app (PWA) to enhance 
 
 ## Contents
 
-- **Thesis Document:** \[Placeholder Link to Full Thesis Document]
+- [**Thesis Document**](https://github.com/Aam-Do/BachelorThesis-2025/blob/main/Thesis.pdf)
 - **Appendices:**
   - [**Appendix A - Digital Tools Overview**](https://github.com/Aam-Do/BachelorThesis-2025/tree/main/Appendices/Appendix%20A%20-%20Digital%20Tools%20Overview)
     - Table of Digital Tools examined.
